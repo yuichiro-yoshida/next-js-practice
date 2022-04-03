@@ -1,8 +1,6 @@
 # Next.js practice
 以前 Nuxt3（beta）で開発した妊婦向け Web アプリ [What to eat?](https://i-dont-know-what-to-eat.vercel.app/) のコピーを、スタイリングや表示コンテンツの量は一旦考慮せずに、JS コアロジックだけさっくり作って React の練習をした試みです（作業時間1日）。
 
-GitHub: [https://github.com/yuichiro-yoshida/next-js-practice](https://github.com/yuichiro-yoshida/next-js-practice)
-
 3種類の検索条件をAND条件で組み合わせて、リアクティブにデータをフィルタリングして表示します。
 
 ## 練習したこと
