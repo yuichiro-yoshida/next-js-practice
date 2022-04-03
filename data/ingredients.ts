@@ -44,8 +44,8 @@ const foodPoisoning: Ingredient = {
     TIMING.early
   ],
   effect: '全期間気をつけたいですが、特に妊娠初期は免疫機能が低下して食中毒など食べ物が原因の病気にもかかりやすくなります。食中毒にかかると早産や流産のリスクも高まると言われています。',
-  targetAmount: null,
-  unit: null,
+  targetAmount: 0,
+  unit: '',
   note: ''
 }
 
