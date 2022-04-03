@@ -13,7 +13,12 @@ https://next-js-practice-drab.vercel.app/
 - stateのリフトアップ
 - Hooksの利用 - useState, useEffect, 自作Hook
 
-## Getting Started
+## 主要技術スタック
+- Next.js v12.1.4
+    - React v18.0.0
+- TypeScript
+
+## 環境構築
 
 ```bash
 npm install
