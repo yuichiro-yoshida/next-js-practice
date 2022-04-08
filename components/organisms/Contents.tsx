@@ -25,6 +25,7 @@ function Contents() {
   return (
     <div>
       <h1>Next.js practice</h1>
+      <p>React を初めて学習しました。</p>
       <p>以前 Nuxt3（beta）で開発した妊婦向け Web アプリ <a href="https://i-dont-know-what-to-eat.vercel.app/" target='_brank' style={{color: 'blue', textDecoration: 'underline'}}>What to eat?</a> のコピーを、スタイリングや表示コンテンツの量は一旦考慮せずに、JS コアロジックだけさっくり作って React の練習をした試みです（作業時間1日）。</p>
       <p>GitHub: <a href="https://github.com/yuichiro-yoshida/next-js-practice" target='_brank' style={{color: 'blue', textDecoration: 'underline'}}>https://github.com/yuichiro-yoshida/next-js-practice</a></p>
       <p>3種類の検索条件をAND条件で組み合わせて、リアクティブにデータをフィルタリングして表示します。</p>
